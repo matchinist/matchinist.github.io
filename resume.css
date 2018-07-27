@@ -8,6 +8,17 @@ body {
 }
 
 #workhistory {
-    padding-top: 100px;
+    padding-top: 80px;
     padding-left: 350px;
 }
+
+#tools {
+    padding-top: 80px;
+    padding-left: 350px;
+}
+
+#log {
+    padding-top: 80px;
+    padding-left: 350px;
+}
+
