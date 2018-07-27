@@ -13,12 +13,12 @@ body {
 }
 
 #tools {
-    margin-top: 80px;
+    padding-top: 80px;
     padding-left: 350px;
 }
 
 #datatools {
-    margin-top: 80px;
+    padding-top: 80px;
     padding-left: 700px;
 }
 
