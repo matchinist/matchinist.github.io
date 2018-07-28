@@ -30,6 +30,11 @@ body {
     overflow: hidden;
 }
 
+#portfolio {
+    padding-top: 140px;
+    padding-left: 350px;
+}
+
 #log {
     padding-top: 140px;
     padding-left: 350px;
