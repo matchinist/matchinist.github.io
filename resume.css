@@ -33,6 +33,7 @@ body {
 #portfolio {
     padding-top: 140px;
     padding-left: 350px;
+    float:left;
 }
 
 #log {
